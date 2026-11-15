@@ -10,7 +10,7 @@ Faire des recherches approfondies prend du temps. Les LLMs classiques (ChatGPT, 
 - Ils ont du mal à gérer des tâches longues et complexes en une seule fois.
 - Un seul "cerveau" ne suffit pas pour exceller partout (recherche, rédaction, critique).
 
-### ✅La solution
+###La solution
 Une architecture **multi-agents** où chaque IA a un rôle spécialisé, orchestrée par **LangGraph** et connectée via le protocole standard **MCP** (Model Context Protocol).
 
 L'équipe est composée de :
